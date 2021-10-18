@@ -1,0 +1,257 @@
+2021-07-18 13:54:36,566 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:54:36,590 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 13:54:36,699 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 13:54:36,715 : INFO : Menu : locatortype css has been returned
+2021-07-18 13:54:36,715 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 13:54:36,793 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 13:54:36,793 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:54:36,809 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 13:54:36,809 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:54:36,824 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:54:37,559 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:54:37,621 : ERROR : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is not returned
+2021-07-18 13:56:07,908 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:07,959 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 13:56:08,095 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 13:56:08,095 : INFO : Menu : locatortype css has been returned
+2021-07-18 13:56:08,102 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 13:56:08,224 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 13:56:08,224 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:09,319 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 13:56:09,320 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:09,341 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:09,719 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:09,759 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:09,874 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:09,910 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:10,058 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:10,083 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:10,168 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:10,187 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:10,272 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:10,293 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:10,385 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:10,405 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:10,501 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:10,519 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 13:56:10,607 : INFO : Menu : locatortype css has been returned
+2021-07-18 13:56:10,634 : INFO : Menu : element returned with locator img[alt='Cart'] and locatortype css
+2021-07-18 13:56:10,885 : INFO : Menu : element with locator img[alt='Cart'] and locatortype css clicked
+2021-07-18 13:56:10,886 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 13:56:11,101 : INFO : Menu : elementlist returned with locator //li[@class='cart-item']//p[@class='product-name'] and locatortype xpath
+2021-07-18 14:03:14,575 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:03:14,841 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:03:14,966 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:03:14,966 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:03:14,981 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:03:15,044 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:03:15,044 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:03:15,059 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:03:15,059 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:03:15,075 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 14:03:15,687 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:03:15,765 : ERROR : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is not returned
+2021-07-18 14:04:19,275 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:04:19,321 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:04:19,493 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:04:19,493 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:04:19,509 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:04:19,571 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:04:19,571 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:04:19,587 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:04:19,587 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:04:19,602 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 14:04:20,122 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:04:20,169 : ERROR : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is not returned
+2021-07-18 14:07:30,799 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:07:30,815 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:07:30,943 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:07:30,943 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:07:30,959 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:07:31,053 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:07:31,053 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:07:31,068 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:07:31,068 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:07:31,084 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 14:07:32,751 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:07:32,783 : ERROR : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is not returned
+2021-07-18 14:18:38,637 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:18:38,668 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:18:38,809 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:18:38,809 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:18:38,824 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:18:38,918 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:18:38,918 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:18:38,949 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:18:38,949 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:18:38,949 : INFO : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is returned
+2021-07-18 14:18:39,814 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:18:39,845 : ERROR : Menu : xpath returned from child for locator parent:: div/parent::div/h4 is not returned
+2021-07-18 14:25:51,446 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:25:51,493 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:25:51,587 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:25:51,587 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:25:51,603 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:25:51,665 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:25:51,665 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:25:51,681 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:25:51,681 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:25:51,696 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:25:52,665 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:25:52,727 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:27:45,533 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:27:45,557 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:27:45,689 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:27:45,690 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:27:45,712 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:27:45,789 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:27:45,790 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:27:45,812 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:29:30,760 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:29:30,780 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:29:30,873 : INFO : Menu : data Br send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:29:30,873 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:29:30,889 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:29:30,967 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:29:30,967 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:29:30,983 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:29:30,983 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:29:30,998 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:29:31,475 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:29:31,522 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:35:22,317 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:35:22,341 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:35:22,446 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:35:22,446 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:35:22,469 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:35:22,534 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:35:22,534 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:35:22,550 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:35:22,550 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:35:22,566 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:35:23,238 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:35:23,420 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:37:56,166 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:37:56,249 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:37:56,511 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:37:56,511 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:37:56,527 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:37:56,629 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:37:56,630 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:37:56,648 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:37:56,648 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:37:56,662 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:37:57,266 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:37:57,292 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:39:47,313 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:39:47,340 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:39:47,449 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:39:47,449 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:39:47,468 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:39:47,546 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:39:47,546 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:39:47,563 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:39:47,563 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:39:47,578 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:39:47,994 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:39:48,099 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:42:16,509 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:16,525 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:42:16,603 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:42:16,603 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:42:16,618 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:42:16,697 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:42:16,697 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:16,712 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:42:16,712 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:16,712 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:42:17,100 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:17,317 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:42:59,067 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:59,090 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:42:59,223 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:42:59,224 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:42:59,248 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:42:59,325 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:42:59,325 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:59,343 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:42:59,343 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:59,358 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:42:59,578 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:42:59,687 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:57:05,391 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:57:05,438 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:57:05,559 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:57:05,559 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:57:05,630 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:57:05,710 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:57:05,711 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:57:05,729 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:57:05,730 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:57:05,745 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 14:57:06,668 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:57:06,905 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 14:59:32,302 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:59:32,360 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:59:32,708 : INFO : Menu : data Brinjal send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 14:59:32,708 : INFO : Menu : locatortype css has been returned
+2021-07-18 14:59:32,726 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 14:59:32,832 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 14:59:32,835 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:59:33,023 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 14:59:33,023 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 14:59:33,041 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 15:02:10,176 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:02:10,229 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:02:10,458 : INFO : Menu : data Brinjal send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:02:10,458 : INFO : Menu : locatortype css has been returned
+2021-07-18 15:02:10,477 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 15:02:10,541 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 15:02:10,541 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:02:10,559 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 15:02:13,566 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:02:13,586 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 15:05:39,171 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:05:39,298 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:05:39,412 : INFO : Menu : data B send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:05:39,413 : INFO : Menu : locatortype css has been returned
+2021-07-18 15:05:39,438 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 15:05:39,570 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 15:05:39,570 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:05:39,589 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 15:05:42,599 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:05:42,623 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:05:53,177 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:05:53,192 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 15:09:15,981 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:09:16,039 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:09:16,157 : INFO : Menu : data C send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:09:16,158 : INFO : Menu : locatortype css has been returned
+2021-07-18 15:09:16,178 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 15:09:16,280 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 15:09:16,280 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:09:16,297 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 15:09:19,305 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:09:19,340 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:09:29,849 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:09:29,881 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:09:40,072 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:09:40,148 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:09:50,268 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:09:50,285 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
+2021-07-18 15:25:23,022 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:25:23,084 : INFO : Menu : element returned with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:25:23,193 : INFO : Menu : data C send to element with locator //input[@type='search' and contains(@placeholder, 'Search')] and locatortype xpath
+2021-07-18 15:25:23,194 : INFO : Menu : locatortype css has been returned
+2021-07-18 15:25:23,213 : INFO : Menu : element returned with locator .search-button and locatortype css
+2021-07-18 15:25:23,298 : INFO : Menu : element with locator .search-button and locatortype css clicked
+2021-07-18 15:25:23,298 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:25:23,318 : INFO : Menu : elementlist returned with locator //button[text()= 'ADD TO CART'] and locatortype xpath
+2021-07-18 15:25:26,327 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:25:26,344 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:25:37,199 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:25:37,215 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:25:47,375 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:25:47,412 : INFO : Menu : xpath returned from child for locator parent::div/parent::div//h4 is returned
+2021-07-18 15:25:57,543 : INFO : Menu : locatortype xpath has been returned
+2021-07-18 15:25:57,594 : ERROR : Menu : xpath returned from child for locator parent::div/parent::div//h4 is not returned
